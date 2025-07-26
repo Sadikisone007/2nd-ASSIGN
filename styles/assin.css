@@ -1,0 +1,475 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+
+.noto-serif-font {
+  font-family: "Noto Serif", serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 3rem;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap');
+
+.noto-serif-font1 {
+  font-family: "Noto Serif", serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 50px;
+  font-variation-settings:
+    "wdth" 100;
+    color:#000000;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap');
+.noto-serif-font0 {
+  font-family: "Noto Serif", serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 20px;
+  color: #FFFFFF;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap');
+
+.noto-serif-font4 {
+  font-family: "Noto Serif", serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 40px;
+  color: #FFFFFF;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+.inter-font4{
+    font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:  400;
+  font-style: normal;
+  font-size: 28px;
+    
+}
+
+
+
+.inter-font {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:  normal;
+  font-style: normal;
+  font-size: 22px;
+   color: rgba(0, 0, 0, 0.5);
+}
+
+
+
+/* NAVBAR styles */
+
+.navbar{
+   justify-content: space-between;
+   align-items: center;
+
+}
+
+.nav-item{
+    list-style: none;
+    margin-right: 48px;
+}
+
+.nav-link{
+    text-decoration: none;
+}
+
+.navbar, .banner{
+    max-width: 1440px;
+    margin: 30px 150px;
+}
+/* TEXT style */
+
+.text-main{
+    color: #252432;
+    font-weight: 700;
+}
+
+.text-second{
+    color: rgba(0, 0, 0, 0.5);
+}
+.text-third{
+    color: #FFFFFF;
+}
+
+
+/* SHARED styles */
+.display-flex{
+    display: flex;
+}
+
+.text-primary{
+    color: #E95A08;
+}
+
+.trust{
+    width: 286px;
+    height: 286px;
+
+}
+
+/* BANNER style */
+.banner{
+    display: flex;
+}
+.hide{
+    visibility: hidden;
+}
+.bg{
+    background-color: #C8C8C8;
+}
+
+/* PLANT CONTAINER STYLE */
+
+.margin{
+    margin: 150px;
+}
+
+.plant-heading{
+    text-align: center;
+}
+
+.plant-container{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+
+}
+.flower img{
+    width: 100%;
+}
+.flower{
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+.btn2{
+    background-color: #E95A08;
+    height: 20px;
+    width: 70px;
+    
+}
+
+.btn1{
+    background-color: #E95A08;
+    color: #C8C8C8;
+    font-size: 16px;
+    font-weight: 400;
+    padding: 19px;
+    width: 100%;
+    border: none;
+}
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+.inter-font1{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font: weight normal;
+  font-style: normal;
+  color: #C8C8C8;
+}
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+.inter-font2{
+    
+
+     font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font: weight normal;
+  color: #111111;
+    font-weight: 700px;
+    font-size: 22px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+.inter-font3{
+    
+
+     font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font: weight normal;
+  color: #111111;
+    font-weight: 400px;
+    font-size: 22px;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+.inter-font5{
+    
+
+     font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font: weight normal;
+  color: rgba(0, 0, 0, 0.5);
+    font-weight: normal;
+    font-size: 22px;
+}
+
+
+
+/* BADGE STYLE */
+.container{
+    display: flex;
+    justify-content: space-between;
+
+}
+/* DEALS */
+.deals{
+    text-align: center;
+
+}
+
+
+/* FEATURE */
+
+
+.section {
+      display: flex;
+      justify-content: space-between;
+      padding: 40px;
+
+      
+    }
+
+    .image-container {
+      position: relative;
+      width: 100%;
+      height: 100%;
+     
+    }
+
+    .image-container img {
+      width: 450px;
+      height: 450px;
+      
+    }
+
+    .badge {
+      position: absolute;
+      top: -250px;
+      left: 130px;
+     width: 1px;
+     height: auto;
+     
+
+    }
+
+    
+
+    .content {
+      margin-left: 40px;
+      max-width: 600px;
+    }
+
+    .content h1 {
+      font-size: 36px;
+      font-weight: bold;
+      
+    }
+
+    
+
+    .content ul li {
+      margin-bottom: 15px;
+      gap: 15px;
+    }
+
+
+/* img */
+.item{
+    text-decoration: none;
+    list-style: none;
+}
+
+.containers{
+      width: 100%;
+      height: 300px;
+      gap: 20px;
+}
+.con-1{
+    background-image: url('../images/deal-bloom.png');
+    background-size: cover;
+    width: 400px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 40px;
+    border-radius: 20px;
+
+}
+.con-2{
+    background-image: url('../images/deal-ana.png');
+    background-size: cover;
+    width: 400px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.con-box-1{
+    max-width: 1140px;
+    gap: 10px;
+}
+.con-box-2{
+    background-image: url('../images/deal-zabo.png');
+    background-size: cover;
+    width: 800px;
+    height: 440px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    border-radius: 20px;
+    padding-left: 20px;
+
+}
+/* BG IMG */
+.sub{
+    display: flex;
+    text-align: center;
+     align-items: center;
+   /*  border: 2px solid red; */
+     height: 370px;
+     background-image: url('../images/news-letter-bg.png');
+     margin-top: 20px;
+     
+}
+
+
+
+    .subscribe-container {
+      
+      
+      width: 100%;
+     
+    }
+
+    .subscribe-container input[type="email"] {
+     
+      padding: 15px;
+      border: none;
+      outline: none;
+      font-size: 16px;
+      
+    }
+
+    .subscribe-container button {
+      padding: 15px 25px;
+      background-color: #E95A08;
+      color: white;
+      border: none;
+      font-size: 16px;
+     
+    }
+
+    /* FOOTER */
+
+.foot{
+    padding: 50px 160px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.footer-left{
+    max-width: 300px;
+}
+
+.footer-left img{
+    height: 82px;
+    width: 135px;
+    margin-bottom: 20px;
+}
+
+.footer-links{
+    display: grid;
+    grid-template-columns: repeat(2, 2fr);
+    gap: 38px;
+    
+}
+.footer-links a{
+    text-decoration: none;
+    font-size: 15px;
+}
+
+.footer-icons{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* RESPONSIVE */
+@media screen and (max-width: 576px) {
+    .plant-container{
+        grid-template-columns: repeat(2, 3fr);
+        width: 50%;
+    }
+    .plant-heading{
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+
+    }
+    .banner{
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        margin: 20%;
+
+    }
+   
+}
